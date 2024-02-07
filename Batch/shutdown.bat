@@ -1,0 +1,1 @@
+powershell start cmd -v runas -ArgumentList {/c \"@echo on & shutdown /s /f\"}

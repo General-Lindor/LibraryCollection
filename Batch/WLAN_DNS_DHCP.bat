@@ -1,0 +1,1 @@
+powershell start cmd -v runas -ArgumentList {/c \"@echo on & netsh interface ipv4 set dns \\\"WLAN\\\" dhcp & netsh interface ipv6 set dns \\\"WLAN\\\" dhcp\"}
