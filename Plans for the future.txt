@@ -1,0 +1,2 @@
+Some sort of mechanism to allow grading code. Some sort of global voting system with the possibility to leave comments.
+Feel free to get into it if you're feeling motivated.

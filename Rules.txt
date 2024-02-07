@@ -1,0 +1,5 @@
+1. If you alter/change/delete code which you didn't create yourself, please leave a comment about it in form of a standard .txt file
+2. Please Sort related files into the same folders to create a hierarchical structure.
+3. Please always mention dependencies.
+4. If you contribute code, accept that it gets peer-reviewed and criticized
+5. If you criticize code, stay constructive and professional and don't get personal
